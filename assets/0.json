@@ -1,0 +1,20 @@
+{
+  "name": "Espacio_Boy",
+  "symbol": "COSMICBOAT",
+  "description": "TEST 1/20",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "12EgNAK5UuBdVowt4SBZqryi1xRPRqKcXvaLZsGWTczp",
+        "share": 100
+      }
+    ]
+  }
+}

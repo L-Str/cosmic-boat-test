@@ -1,0 +1,20 @@
+{
+  "name": "Dusty_Kid",
+  "symbol": "COSMICBOAT",
+  "description": "TEST 8/20",
+  "image": "7.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "12EgNAK5UuBdVowt4SBZqryi1xRPRqKcXvaLZsGWTczp",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Solid_Bird",
+  "symbol": "COSMICBOAT",
+  "description": "TEST 17/20",
+  "image": "16.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "16.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "12EgNAK5UuBdVowt4SBZqryi1xRPRqKcXvaLZsGWTczp",
+        "share": 100
+      }
+    ]
+  }
+}
